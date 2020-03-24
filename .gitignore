@@ -58,3 +58,26 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+xcuserdata
+*.pbxuser
+libiPhone-lib.a
+Temp/
+obj/
+Library/
+
+*.csproj
+*.pidb
+*.unityproj
+*.userprefs
+*.sln
+*.suo
+*.svd
+
+*.dll
+*.exe
+*.swp
+
+xcuserdata
+*.pbxuser
+libiPhone-lib.a
+iOS/Libraries/libil2cpp.a
