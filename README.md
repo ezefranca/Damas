@@ -42,4 +42,5 @@ Exemplo: A peça marcada com **X** neste caso seria a primeira escolha
  
  Vídeo no Youtube:
  
- ![https://www.youtube.com/watch?v=IHKuQMgCsxs&feature=youtu.be](https://raw.githubusercontent.com/ezefranca/Damas/master/thumb.png?token=AA32WUDAPAI3HARMVCZXULS6QKJYC)
+ [![Foo](https://raw.githubusercontent.com/ezefranca/Damas/master/thumb.png?token=AA32WUDAPAI3HARMVCZXULS6QKJY)](https://www.youtube.com/watch?v=IHKuQMgCsxs&feature=youtu.be)
+
