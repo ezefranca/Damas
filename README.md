@@ -1,14 +1,14 @@
 ## Mestrado profissional em Desenvolvimento de Jogos Digitais (PUC-SP)
 ![](https://raw.githubusercontent.com/ezefranca/Damas/master/logo_mestrado.png)
-### Damas
+# Damas
 ### Disciplina: Laboratório 2 
 ### Professor Reinaldo Ramos
 
 ![](https://raw.githubusercontent.com/ezefranca/Damas/master/print.png?token=AA32WUH44VEAP5LEVW4EW3C6QKGZS)
 
-## Proposta
+## Desafio
 
-Balancear a "IA" de modo que o jogador não perceba se é uma IA ou jogador. Sem utilização de algoritmos de inteligência artificial.
+Balancear a "IA" de modo que o jogador não perceba se é uma IA ou jogador. **Sem utilização de algoritmos de inteligência artificial.**
 
 ## Solução
 
