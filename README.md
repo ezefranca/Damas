@@ -1,6 +1,8 @@
-# Damas 
-### Trabalho II realizado para o Mestrado profissional em Desenvolvimento de Jogos Digitais (PUC-SP)
-#### Laboratório 2 (Prof. Dr. Reinaldo Ramos)
+## Mestrado profissional em Desenvolvimento de Jogos Digitais (PUC-SP)
+![](https://raw.githubusercontent.com/ezefranca/Damas/master/logo_mestrado.png)
+### Damas
+### Disciplina: Laboratório 2 
+### Professor Reinaldo Ramos
 
 ![](https://raw.githubusercontent.com/ezefranca/Damas/master/print.png?token=AA32WUH44VEAP5LEVW4EW3C6QKGZS)
 
