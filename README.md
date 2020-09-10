@@ -1,8 +1,12 @@
 ## Mestrado profissional em Desenvolvimento de Jogos Digitais (PUC-SP)
-![](https://raw.githubusercontent.com/ezefranca/Damas/master/logo_mestrado.png)
+
+<p align="center">
+<img class="mestrado" src="https://raw.githubusercontent.com/ezefranca/Damas/master/logo_mestrado.png" width="30%" height="30%">
+</p>
+
 # Damas
 ### Disciplina: Laboratório 2 
-### Professor Reinaldo Ramos
+### Professor Dr. Reinaldo Augusto de Oliveira Ramos
 
 ![](https://raw.githubusercontent.com/ezefranca/Damas/master/print.png?token=AA32WUH44VEAP5LEVW4EW3C6QKGZS)
 
